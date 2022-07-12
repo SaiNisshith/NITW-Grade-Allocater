@@ -18,7 +18,7 @@ int main(){
      cout<<"Enter the minimum percentage for Passing (35 or 40):";
     double mi;
     cin>>mi;
-    
+    cout<<"If a Student is ABSENT for END Exam, while entering END marks please enter -1 and for the rest exams enter 0"<<endl;
     cout<<"Provide the data in the format of (ROLL Number - Internal Marks - Mid - End) "<<endl;
         double numsq = 0;
         double sum=0;
