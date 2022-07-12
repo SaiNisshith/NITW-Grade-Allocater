@@ -84,7 +84,7 @@ int main(){
      f.open("result.txt");
     cout<<"The output will be  (Roll - Total Marks - Grade Allotated)";
     for(int i=1; i<=nofs; i++){
-        cout<<s[i].roll<<" - "<<s[i].total<<" - "<<s[i].grade<<endl;
+        cout<<"\t"<<s[i].roll<<" - "<<s[i].total<<" - "<<s[i].grade<<endl;
         f<<s[i].roll<<" - "<<s[i].total<<" - "<<s[i].grade<<endl;
     }
      f.close();
