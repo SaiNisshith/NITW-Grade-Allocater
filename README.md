@@ -8,3 +8,4 @@ As this is the CPP file it will again becomes storing the output data, so here I
 Care has been taken for making as User-Friendly as possible.
 
 So I request the user, to follow all the instructions and procced furthur by following them for the best results.
+<img width="960" alt="Output" src="https://user-images.githubusercontent.com/108432633/178581561-38946ac0-dc83-4335-ac1f-603aa6aa887c.png">
