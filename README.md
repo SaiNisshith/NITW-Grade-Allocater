@@ -3,7 +3,7 @@ Created a Grade Allocater of National Institute of Technology Warangal, where th
 
 All the rules to allocate the grades has been taken care very strictly, and it will produce the 99.9999% best result.
 
-As this is the CPP file it becomes difficult to store the output data, so here I added the output data into the result.txt in the order(ROLL NO - TOTAL MARKS -ASSIGNED GRADE). This file location of result.txt will be in the same folder where the the CPP file was stored.
+As this is the CPP file it becomes difficult to store the output data, so here I added the output data into the result.txt in the order(ROLL NO - TOTAL MARKS -ASSIGNED GRADE). This file location of result.txt file will be in the same folder where the the CPP file was stored.
 
 Care has been taken for making it as User-Friendly as possible.
 
